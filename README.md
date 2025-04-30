@@ -18,7 +18,7 @@ I will add all the features in due time from the private repo.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/percunium.git
+    git clone https://github.com/pratyushsinhaa/percunium.git
     cd percunium
     ```
 
